@@ -1,0 +1,23 @@
+#+TITLE: Templates
+#+AUTHOR: Neil Shephard
+#+EMAIL: n.shephard@sheffield.ac.uk
+
+This is a collection of templates that I use regularly in work. There are (or will be) sections force
+
++ Python
++ R
++ LaTeX
+
+
+* Usage
+
+To use these templates you should ideally make a fork and then clone your copy. From there copy the templates you wish
+to use to a location you wish to use them as a basis for.
+
+** Python
+
+The ~python~ template is for creating a Python Package.
+
+** R
+
+** LaTeX
