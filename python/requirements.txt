@@ -13,8 +13,12 @@ matplotlib
 seaborn
 
 # Documentation
+myst-parser
+pydata-sphinx-theme
 sphinx
 sphinx-autodoc-napoleon-typehints
+sphinx-markdown-tables
+sphinx_rtd_theme
 sphinxcontrib-coverage
 sphinxcontrib-githubpages
 sphinxcontrib-mermaid
