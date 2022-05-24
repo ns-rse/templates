@@ -1,0 +1,23 @@
+# A list of packages commonly used across projects
+
+# YAML
+ruamel.yaml
+
+# Data Analysis
+numpy
+pandas
+scipy
+
+# Visualisation
+matplotlib
+seaborn
+
+# Documentation
+sphinx
+sphinx-autodoc-napoleon-typehints
+sphinxcontrib-autodoc
+sphinxcontrib-coverage
+sphinxcontrib-githubpages
+sphinxcontrib-mermaid
+sphinxcontrib-napoleon
+sphinxcontrib-viewcode
