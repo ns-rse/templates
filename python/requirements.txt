@@ -15,6 +15,7 @@ seaborn
 # Documentation
 myst-parser
 pydata-sphinx-theme
+renku-sphinx-theme
 sphinx
 sphinx-autodoc-napoleon-typehints
 sphinx-markdown-tables

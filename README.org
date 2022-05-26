@@ -16,8 +16,20 @@ to use to a location you wish to use them as a basis for.
 
 ** Python
 
-The ~python~ template is for creating a Python Package.
+
+| Templates | Description |
+|-----------+-------------|
+| ~python~  | Template for creating a Python Package. |
 
 ** R
 
 ** LaTeX
+
+** GitHub
+
+A collection of templates useful for working with GitHub. Many are [YAML](https://yaml.org) configurations for [Git
+Workflows](https://docs.github.com/en/github-ae@latest/actions/using-workflows/about-workflows).
+
+| Template        | Description                                                                                                 |
+|-----------------+-------------------------------------------------------------------------------------------------------------|
+| ~gh-pages.yaml~ | Build Sphinx documentation and host it on [GitHub Pages](https://docs.github.com/en/github-ae@latest/pages) |
