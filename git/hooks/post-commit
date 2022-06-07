@@ -1,0 +1,5 @@
+#!/bin/sh
+#
+# A hook script to push after com
+#
+exec git push
