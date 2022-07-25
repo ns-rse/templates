@@ -1,0 +1,4 @@
+#!/bin/sh
+#
+# Run pre-commit on all files as per workflow
+pre-commit run --all-files
